@@ -1,0 +1,39 @@
+/* Footer styles */
+footer {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    padding: 10px;
+    border: 1px dashed darkblue;
+}
+
+/* Notice styles */
+#notice {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Headline with dotted underline */
+.headline {
+    color: #4a90e2;
+    border-bottom: 2px dotted #4a90e2;
+    padding-bottom: 5px;
+}
+
+/* H1 element styles */
+h1 {
+    font-family: sans-serif;
+    font-size: 4em;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Section styles */
+#section {
+    font-family: Arial, sans-serif;
+    font-size: small;
+    color: red;
+    background-color: #ffffff;
+    width: 80%;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
